@@ -1,0 +1,7 @@
+#include<stdio.h>
+int main()
+{
+	gets(name ROHINI);
+	puts(name);
+	return 0;
+}
